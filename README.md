@@ -5,7 +5,7 @@
 # conan-tgbot
 
 
-[Conan](https://bintray.com/conan-community/conan/tgbot%3Aconan) package for ZLIB library. Thanks to Tim Lebedkov for the MinGW integration help! :)
+[Conan](https://bintray.com/conan-community/conan/tgbot%3Aconan) package for TgBot library.
 
 
 ## Basic setup
